@@ -90,3 +90,29 @@ body, html {
     margin-bottom: 15px;
     margin-right: 57px;
   }
+  /* 4th card */
+  .card-body4{
+    margin-top: 54px;
+    margin-left: 143px;
+    margin-right: 142px;
+    
+  }
+
+  .card4{
+    height: 255px;
+    display: flex;
+    background-color: bisque;
+    max-width: 1635px;
+  }
+  .card-left4{
+    flex: 1 1 auto;
+  }
+  .card-title4{
+    margin-top: 91px;
+    margin-bottom: 91px;
+    margin-right: 57px;
+  }
+  .card-subtile4{
+    margin-bottom: 15px;
+    margin-right: 57px;
+  }
