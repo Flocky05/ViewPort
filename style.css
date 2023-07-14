@@ -142,3 +142,29 @@ body, html {
     margin-bottom: 15px;
     margin-right: 57px;
   }
+
+  /* More product */
+  .more-product{
+    margin-left: 809px;
+    margin-left: 808px;
+  }
+
+  /* card Headphone */
+  .card-headphone-image{
+      width:25%;
+      height: 100%;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+  }
+  .headphone-details{
+    display: flex;
+    justify-content: space-between;
+
+  }
+  .headphone-price{
+    margin-top:24px;
+    margin-left: 35px;
+    display: flex;
+    justify-content: space-between;
+
+    
+  }
