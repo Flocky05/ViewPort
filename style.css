@@ -116,3 +116,29 @@ body, html {
     margin-bottom: 15px;
     margin-right: 57px;
   }
+  /* 5th card */
+  .card-body5{
+    margin-top: 54px;
+    margin-left: 143px;
+    margin-right: 142px;
+    
+  }
+
+  .card5{
+    height: 255px;
+    display: flex;
+    background-color: bisque;
+    max-width: 1635px;
+  }
+  .card-left5{
+    flex: 1 1 auto;
+  }
+  .card-title5{
+    margin-top: 91px;
+    margin-bottom: 91px;
+    margin-right: 57px;
+  }
+  .card-subtile5{
+    margin-bottom: 15px;
+    margin-right: 57px;
+  }
